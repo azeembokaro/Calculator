@@ -1,0 +1,36 @@
+.container{
+   text-align: center; 
+}
+h1{
+    font-size: 52px;
+    color: goldenrod;
+    padding: 10px 0px;
+}
+table{
+    margin: auto;
+}
+button{
+    color: white;
+    background: dodgerblue;
+    font-size: 27px;
+    width: 60px;
+    height: 45px;
+    border-radius: 10px;
+    margin: 5px 5px;
+}
+#screen{
+    width: 250px;
+    height: 60px;
+    font-size: 23px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.main{
+    display: inline-block;
+    display: inline-block;
+    border: 3px solid goldenrod;
+    background: pink;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
+
